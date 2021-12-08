@@ -1,4 +1,4 @@
-# BCD436HP Defaul Band Coverage
+# BCD436HP Default Band Coverage
 
 | Lower     | Upper      | Mode | Step   | Band                                  |
 | --------- | ---------- | :--: | :----: | ------------------------------------- |
