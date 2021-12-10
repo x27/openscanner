@@ -1,2 +1,2 @@
 # openscanner
-related to @openscanner
+related to https://twitter.com/openscanner
