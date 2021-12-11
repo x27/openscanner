@@ -46,5 +46,5 @@ ps. inside fw version is not changed
 
 pss. patched sentinel (2.02.01) .exe file for support scanners with mod fw located here: https://mega.nz/file/sA1ChboS#bT-q2AVdgBvx2ubJgaJsNYOebfPCEvt-cxZaxFRCsbY
 
-official version sentinel (2.02.01) lacated here:http://info.uniden.com/twiki/pub/UnidenMan4/BCD536HP/BCDx36HP_Sentinel_Version_2_02_01.zip
+official version sentinel (2.02.01) located here: http://info.uniden.com/twiki/pub/UnidenMan4/BCD536HP/BCDx36HP_Sentinel_Version_2_02_01.zip
 
