@@ -1,5 +1,9 @@
 # MOD firmwares
 
+## BCD436HP_V1_28_16.bin
+
+* Set min alarm low voltage to 2700 mV
+
 ## BCD436HP_V1_28_15.bin
 
 * Removed gaps on bands (based on BCD436HP 1.28.14)
