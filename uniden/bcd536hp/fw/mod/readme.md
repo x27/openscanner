@@ -4,7 +4,7 @@
 
 * Removed gaps on bands (based on BCD536HP 1.28.16)
 
-Allowed freq band list in 1.28.14 (in MHz):
+Allowed freq band list in 1.28.16 (in MHz):
 
 - 25.0000 - 53.9999
 - 54.0000 - 107.9999
@@ -23,7 +23,7 @@ Allowed freq band list in 1.28.14 (in MHz):
 - 894.0000 - 960.0000
 - 1240.0000 - 1300.0000 
 
-Allowed freq band list in 1.28.15 (in MHz):
+Allowed freq band list in 1.28.17 (in MHz):
 
 - 25.0000 - 53.9999
 - 54.0000 - 107.9999
