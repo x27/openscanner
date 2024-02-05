@@ -1,5 +1,9 @@
 # MOD firmwares
 
+## BCD436HP_V1_99_01.bin (based on v1.28.14)
+
+* Sound On when received encrypted DMR traffic
+
 ## BCD436HP_V1_28_16.bin
 
 * Set min alarm low voltage to 2700 mV
