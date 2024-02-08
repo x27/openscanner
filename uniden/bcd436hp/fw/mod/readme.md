@@ -1,5 +1,10 @@
 # MOD firmwares
 
+## BCD436HP_V1_99_03.bin (based on v1.28.14)
+
+* Removed gaps on bands
+* Unmute when received all encrypted traffic
+
 ## BCD436HP_V1_99_02.bin (based on v1.28.14)
 
 * Unmute when received all encrypted traffic
