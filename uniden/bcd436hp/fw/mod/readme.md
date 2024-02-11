@@ -1,8 +1,8 @@
 # MOD firmwares
 
-## BCD436HP_V1_99_04.bin (based on v1.28.14)
+## BCD436HP_V1_99_04.bin (based on v1.99.03)
 
-Fix: Show extended Net/System/Site/TG info for any custom name
+Fix: Show extended Net/System/Site/TG info for any custom search name
 
 Description of the problem: https://forums.radioreference.com/threads/custom-search-bcd436hp.343396/
 
