@@ -1,5 +1,11 @@
 # MOD firmwares
 
+## BCD436HP_V1_99_04.bin (based on v1.28.14)
+
+Fix: Show extended Net/System/Site/TG info for any custom name
+Description of problem: https://forums.radioreference.com/threads/custom-search-bcd436hp.343396/
+Video: https://www.youtube.com/watch?v=j64LAJJox2Y
+
 ## BCD436HP_V1_99_03.bin (based on v1.28.14)
 
 * Removed gaps on bands
