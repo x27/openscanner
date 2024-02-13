@@ -1,5 +1,13 @@
 # MOD firmwares
 
+## BCD536HP_V1_99_04.bin (based on v1.99.03)
+
+Fix: Show extended Net/System/Site/TG info for any custom name
+
+Description of the problem: https://forums.radioreference.com/threads/custom-search-bcd436hp.343396/
+
+Video of the problem: https://www.youtube.com/watch?v=j64LAJJox2Y
+
 ## BCD536HP_V1_99_03.bin (based on v1.28.16)
 
 * Unmute when received all encrypted traffic
