@@ -1,5 +1,72 @@
 # MOD firmwares
 
+## BCD436HP_V1_99_05.bin (based on v1.99.04)
+* Visual information about the mod version (boot screen)
+* Output debugging information about DMR traffic.
+
+To get debugging information, you need to turn on the scanner by pressing POWER+AVOID, 
+then in the "Settings" menu in the submenu "Set Debug Log Mode" you need to select 
+"SD Card(File)" or "USB (Serial)".
+
+In addition to the debugging information provided by Uniden, I have added my debugging data.
+
+#### DMR VOICE FRAME LOG
+**Format:**
+*:V0XXXXXXXXXXXXXXXXXYYYYYYYYYYYYYYYYYYZZZZZZZZZZZZZZZZZZ*
+
+**:V0** - DMR voice frame log signature, version 0
+
+**XXXXXXXXXXXXXXXXXX** - voice frame #0, ASCII HEX, 72bits = 9byte = 2*9 ASCII HEX symbols
+**YYYYYYYYYYYYYYYYYY** - voice frame #1
+**ZZZZZZZZZZZZZZZZZZ** - voice frame #2
+
+#### DMR SYSTEM INFO LOG (and not only)
+**Format:**
+*:D0AAAAAAAABCDEEFGHHHHIJKLMNOOPPQQQQQQQQRRRRRRRRSSSSTTTTUUUU*
+
+**:D0** - DMR system info log signature, version 0
+
+**AAAAAAAA** - current frequency, ASCII DEC
+**B** - DMR trunk type, 0:DMR One?, 1:DMR, 2:CAP, 4:DT3, 3:CON, 5:XPT
+**C** - DMR data type
+- 0: PI Header
+- 1: Voice LC Header
+- 2: Terminator with LC
+- 3: CSBK
+- 4: MBC Header
+- 5: MBC Continuation
+- 6: Data Header
+- 7: Rate 1/2 Data
+- 8: Rate 3/4 Data
+- 9: Idle
+- A: Rate 1 Data
+- B: Unified Single Block Data
+- C: Reserved for future use
+- D: Reserved for future use
+- E: Reserved for future use
+- F: Reserved for future use
+
+**D** - FS type
+**EE** - DMR call type
+**F** - TDMA ch
+**G** - TDMA ch0
+**HHHH** - C-CH
+**I** - DMR color code
+**J** - DMR superframe count (0-B)
+**K** - DMR encrypt
+**L** - DMR privacy 
+**M** - DMR protect
+**N** - EMB privacy
+**OO** - EMB FID
+**PP** - EMB FLCO
+**QQQQQQQQ** - EMB TGID
+**RRRRRRRR** - EMB UID
+**SSSS** - DMR SLC LCN
+**TTTT** - DMR SLC NID
+**UUUU** - DMR SLC SID
+
+This packet will be transmitted before the triad of voice frames, so some of the fields will be constant. The meaning of some variables is unknown to me, the redundancy of this is aimed at the future.
+
 ## BCD436HP_V1_99_04.bin (based on v1.99.03)
 
 Fix: Show extended Net/System/Site/TG info for any custom search name
