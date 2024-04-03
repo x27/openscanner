@@ -5,6 +5,7 @@ Each firmware builds upon the previous firmware (usually), so you get all the be
 ## BCD436HP_V1_99_09.bin (based on v1.99.05)
 
 * Add Hytera BP (Basic Privacy) and Motorola BP (Basic Privacy) decryption with known key
+* Now "Set Debug Log Mode" submenu always enabled in the "Settings" menu
 
  https://github.com/x27/openscanner/releases/tag/BCD436HP_1.99.09
 
@@ -65,5 +66,5 @@ Safely disconnect the Scanner from the computer and wait about half a minute for
 
 ### Revert To Official Version
 
-Custom Firmware don't change bootloader so you can go back to the official version using Sentinel at any time 
+Custom Firmware doesn't change the bootloader so you can go back to the official version using [Sentinel](https://info.uniden.com/twiki/bin/view/Unidenman4/BCDx36HPSentinel) at any time. ([YouTube](https://www.youtube.com/watch?v=ypdtc7nnMfk))
 
