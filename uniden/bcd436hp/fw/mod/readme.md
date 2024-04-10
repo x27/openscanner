@@ -2,12 +2,20 @@
 
 Each firmware builds upon the previous firmware (usually), so you get all the benefits of the past versions.
 
+## BCD436HP V1.99.10 (based on v1.99.09)
+
+* Fixed error decryption Hytera BP (256 bit)
+* Fixed error Memory Scan
+* Some minor changes
+
+https://github.com/x27/openscanner/releases/tag/BCD436HP_1.99.10
+
 ## BCD436HP_V1_99_09.bin (based on v1.99.05)
 
 * Add Hytera BP (Basic Privacy) and Motorola BP (Basic Privacy) decryption with known key
 * Now "Set Debug Log Mode" submenu always enabled in the "Settings" menu
 
- https://github.com/x27/openscanner/releases/tag/BCD436HP_1.99.09
+https://github.com/x27/openscanner/releases/tag/BCD436HP_1.99.09
 
 ## BCD436HP_V1_99_05.bin (based on v1.99.04)
 * Visual information about the mod version (boot screen)
