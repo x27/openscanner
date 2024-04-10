@@ -1,5 +1,14 @@
 # MOD firmwares
 
+## BCD536HP V1.99.10 (based on v1.99.09)
+
+* Add Hytera BP (Basic Privacy) and Motorola BP (Basic Privacy) decryption with known key
+* Now "Set Debug Log Mode" submenu always enabled in the "Settings" menu
+* Visual information about the mod version (boot screen)
+* Output debugging information about DMR traffic.
+
+https://github.com/x27/openscanner/releases/tag/BCD536HP_1.99.10
+
 ## BCD536HP_V1_99_04.bin (based on v1.99.03)
 
 Fix: Show extended Net/System/Site/TG info for any custom name
@@ -61,7 +70,24 @@ Allowed freq band list in 1.28.17 (in MHz):
 
 ps. inside fw version is not changed
 
+### Sentinel (Control Software)
+
 pss. patched sentinel (2.05.03) .exe file for support scanners with mod fw located here: https://mega.nz/file/NBtlRKxC#54LBK3Qiuqtsd0ZzQWZ_SfnRTqukdHuPXGChtUu5mXY
 
 official version sentinel (2.05.03) located here: https://info.uniden.com/twiki/pub/UnidenMan4/BCD536HP/BCDx36HP_Sentinel_Version_2_05_03.zip
 
+### How To Flash
+
+To flash the Firmware, download the firmware to the computer.
+
+Connect the Scanner to the computer as Mass Storage (Press "E" on the Scanner).
+
+Copy the Firmware to the "\BCDx36HP\firmware" directory of the Scanner's memory card (for example, E:\BCDx36HP\firmware).
+
+Wait till the copy process is done.
+
+Safely disconnect the Scanner from the computer and wait about half a minute for the Firmware to automatically flash and for the Scanner to start working.
+
+### Revert To Official Version
+
+Custom Firmware doesn't change the bootloader so you can go back to the official version using [Sentinel](https://info.uniden.com/twiki/bin/view/Unidenman4/BCDx36HPSentinel) at any time. ([YouTube](https://www.youtube.com/watch?v=ypdtc7nnMfk))
