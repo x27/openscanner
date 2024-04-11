@@ -2,6 +2,8 @@
 
 Each firmware builds upon the previous firmware (usually), so you get all the benefits of the past versions.
 
+To get the most from the latest custom firmware you must use the [CFT program](https://github.com/x27/CFT)
+
 ## BCD436HP V1.99.10 (based on v1.99.09)
 
 * Fixed error decryption Hytera BP (256 bit)
