@@ -1,5 +1,7 @@
 # MOD firmwares
 
+To get the most from the latest custom firmware you must use the [CFT program](https://github.com/x27/CFT)
+
 ## BCD536HP V1.99.10 (based on v1.99.09)
 
 * Add Hytera BP (Basic Privacy) and Motorola BP (Basic Privacy) decryption with known key
