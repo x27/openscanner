@@ -8,7 +8,7 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 This can be configured in the CFT program
 
-https://github.com/x27/openscanner/releases/tag/BCD436HP_1.99.11
+https://github.com/x27/openscanner/releases/tag/BCD536HP_1.99.11
 
 ## BCD536HP V1.99.10 (based on v1.99.09)
 
