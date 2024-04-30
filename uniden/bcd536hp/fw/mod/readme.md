@@ -100,4 +100,9 @@ Safely disconnect the Scanner from the computer and wait about half a minute for
 
 ### Revert To Official Version
 
-Custom Firmware doesn't change the bootloader so you can go back to the official version using [Sentinel](https://info.uniden.com/twiki/bin/view/Unidenman4/BCDx36HPSentinel) at any time. ([YouTube](https://www.youtube.com/watch?v=ypdtc7nnMfk))
+Custom Firmware doesn't change the bootloader so you can go back to the official version.
+
+Since custom firmware does not change the internal version number, you can go back to the official firmware as follows:
+- download the latest official firmware (1.28.16) from [here](https://github.com/x27/openscanner/tree/main/uniden/bcd536hp/fw/official)
+- rename the file to BCD536HP_V1_28_17.BIN. This is necessary for the bootloader to accept this firmware version as the new one.
+- copy to the scanner directory /BCDx36HP/FIRMWARE and reboot the scanner.
