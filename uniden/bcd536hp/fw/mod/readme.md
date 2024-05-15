@@ -2,6 +2,14 @@
 
 To get the most from the latest custom firmware you must use the [CFT program](https://github.com/x27/CFT)
 
+## BCD536HP V1.99.14 (based on v1.99.11)
+
+* Added NXDN Scrambler decryption
+
+This can be configured in the CFT program
+
+https://github.com/x27/openscanner/releases/tag/BCD536HP_1.99.11
+
 ## BCD536HP V1.99.11 (based on v1.99.10)
 
 * Add Zip Key Assignment
