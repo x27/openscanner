@@ -2,6 +2,10 @@
 
 To get the most from the latest custom firmware you must use the [CFT program](https://github.com/x27/CFT)
 
+## SDS-100_V1_99_14.bin (based on v1.99.11)
+
+* Added NXDN Scrambler decryption
+
 ## SDS-100_V1_99_10.bin (based on v1.23.07)
 
 * Add Hytera BP (Basic Privacy) and Motorola BP (Basic Privacy) decryption with known key
