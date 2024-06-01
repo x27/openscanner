@@ -1,9 +1,9 @@
 # openscanner
 
 ### The latest versions of custom firmware
-- [BCD436HP CF 1.99.14](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/mod)
-- [BCD536HP CF 1.99.14](https://github.com/x27/openscanner/tree/main/uniden/bcd536hp/fw/mod)
-- [SDS100 CF 1.99.14](https://github.com/x27/openscanner/tree/main/uniden/sds100/fw/mod)
+- [BCD436HP CF 1.99.17](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/mod)
+- [BCD536HP CF 1.99.17](https://github.com/x27/openscanner/tree/main/uniden/bcd536hp/fw/mod)
+- [SDS100 CF 1.99.17](https://github.com/x27/openscanner/tree/main/uniden/sds100/fw/mod)
 
 ### Custom firmware configuration software
 - [Custom Firmware Tuner CFT](https://github.com/x27/CFT)
