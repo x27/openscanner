@@ -2,11 +2,21 @@
 
 To get the most from the latest custom firmware you must use the [CFT program](https://github.com/x27/CFT)
 
-## SDS-100_V1_99_14.bin (based on v1.99.11)
+All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
+
+##  SDS-100 V1.99.17 (based on v1.99.16)
+
+* Fixed problem in DMR/Simplex mode when KeyID is set because the scanner does not catch PI HEADER in this mode.
+
+## SDS-100 V1.99.16 (based on v1.99.14)
+
+* Added Motorola EP (Enhanced Privacy) decryption
+
+## SDS-100 v1.99.14 (based on v1.99.11)
 
 * Added NXDN Scrambler decryption
 
-## SDS-100_V1_99_10.bin (based on v1.23.07)
+## SDS-100 v1.99.10 (based on v1.23.07)
 
 * Add Hytera BP (Basic Privacy) and Motorola BP (Basic Privacy) decryption with known key
 * Now "Set Debug Log Mode" submenu always enabled in the "Settings" menu
@@ -15,7 +25,7 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 https://github.com/x27/openscanner/releases/tag/SDS100_1.99.10
 
-## SDS-100_V1_99_02.bin (based on v1.23.03)
+## SDS-100 v1.99.02 (based on v1.23.03)
 
 - DPMR in SDS100 now
 
