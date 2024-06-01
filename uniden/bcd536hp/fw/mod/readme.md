@@ -2,6 +2,16 @@
 
 To get the most from the latest custom firmware you must use the [CFT program](https://github.com/x27/CFT)
 
+All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
+
+## BCD536HP V1.99.17 (based on v1.99.16)
+
+* Fixed problem in DMR/Simplex mode when KeyID is set because the scanner does not catch PI HEADER in this mode.
+
+## BCD536HP V1.99.16 (based on v1.99.14)
+
+* Added Motorola EP (Enhanced Privacy) decryption
+
 ## BCD536HP V1.99.14 (based on v1.99.11)
 
 * Added NXDN Scrambler decryption
