@@ -13,4 +13,4 @@
 - email: n3617400@yahoo.com
 - twitter:  https://twitter.com/openscanner
 - telegram: https://t.me/openscanner
-- telegram chat: https://t.me/+lBpGtQr1FgI0ZWU6
+- telegram chat: https://t.me/openscannerchat
