@@ -27,6 +27,6 @@ Safely disconnect the Scanner from the computer and wait about half a minute for
 Custom Firmware doesn't change the bootloader so you can go back to the official version.
 
 Since custom firmware does not change the internal version number, you can go back to the official firmware as follows:
-- download the latest official firmware (1.23.09) from [here](https://github.com/x27/openscanner/tree/main/uniden/sds200/official)
+- download the latest official firmware (1.23.07) from [here](https://github.com/x27/openscanner/tree/main/uniden/sds200/official)
 - rename the file to SDS200_V1_23_08.BIN. This is necessary for the bootloader to accept this firmware version as the new one.
 - copy to the scanner directory /BCDx36HP/FIRMWARE and reboot the scanner.
