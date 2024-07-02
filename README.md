@@ -6,6 +6,7 @@
 - [SDS100 CF 1.99.18](https://github.com/x27/openscanner/tree/main/uniden/sds100/fw/mod)
 - [UBCD3600XLT CF 1.99.19](https://github.com/x27/openscanner/tree/main/uniden/ubcd3600xlt/mod)
 - [SDS100E CF 1.99.18](https://github.com/x27/openscanner/tree/main/uniden/sds100e/mod)
+- [SDS200 CF 1.99.18](https://github.com/x27/openscanner/tree/main/uniden/sds200/mod)
 
 ### Custom firmware configuration software
 - [Custom Firmware Tuner CFT](https://github.com/x27/CFT)
