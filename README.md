@@ -8,6 +8,7 @@
 - [SDS100E CF 1.99.18](https://github.com/x27/openscanner/tree/main/uniden/sds100e/mod)
 - [SDS200 CF 1.99.18](https://github.com/x27/openscanner/tree/main/uniden/sds200/mod)
 - [SDS200E CF 1.99.18](https://github.com/x27/openscanner/tree/main/uniden/sds200e/mod)
+- [UBCD436PT CF 1.99.18](https://github.com/x27/openscanner/tree/main/uniden/ubcd436pt/mod)
 
 ### Custom firmware configuration software
 - [Custom Firmware Tuner CFT](https://github.com/x27/CFT)
