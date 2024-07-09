@@ -28,5 +28,5 @@ Custom Firmware doesn't change the bootloader so you can go back to the official
 
 Since custom firmware does not change the internal version number, you can go back to the official firmware as follows:
 - download the latest official firmware (1.23.02) from [here](https://github.com/x27/openscanner/tree/main/uniden/ubcd436pt/official)
-- rename the file to UBCD3600XLT_V1_23_03.BIN. This is necessary for the bootloader to accept this firmware version as the new one.
+- rename the file to UBCD436-PT_V1_23_03.BIN. This is necessary for the bootloader to accept this firmware version as the new one.
 - copy to the scanner directory /BCDx36HP/FIRMWARE and reboot the scanner.
