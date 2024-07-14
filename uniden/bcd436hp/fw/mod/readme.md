@@ -80,14 +80,6 @@ Video of the problem: https://www.youtube.com/watch?v=j64LAJJox2Y
 
 * Sound On when received encrypted DMR traffic
 
-## BCD436HP_V1_28_16.bin
-
-* Set min alarm low voltage to 2700 mV
-
-## BCD436HP_V1_28_15.bin
-
-* Removed gaps on bands (based on BCD436HP 1.28.14)
-
 ### Sentinel (Control Software)
 
 pss. patched sentinel (2.05.03) .exe file for support scanners with mod fw located here: https://mega.nz/file/NBtlRKxC#54LBK3Qiuqtsd0ZzQWZ_SfnRTqukdHuPXGChtUu5mXY
