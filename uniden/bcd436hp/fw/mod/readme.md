@@ -103,7 +103,7 @@ Safely disconnect the Scanner from the computer and wait about half a minute for
 Custom Firmware doesn't change the bootloader so you can go back to the official version.
 
 Since custom firmware does not change the internal version number, you can go back to the official firmware as follows:
-- download the latest official firmware (1.28.14) from [here](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/official)
-- rename the file to BCD436HP_V1_28_15.BIN. This is necessary for the bootloader to accept this firmware version as the new one.
+- download the latest official firmware (1.28.15) from [here](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/official)
+- rename the file to BCD436HP_V1_28_16.BIN. This is necessary for the bootloader to accept this firmware version as the new one.
 - copy to the scanner directory /BCDx36HP/FIRMWARE and reboot the scanner.
 
