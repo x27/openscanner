@@ -6,9 +6,9 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
-## BCD436HP V1.99.20 (V1.99.18)
+## BCD436HP V1.99.20 (based on V1.99.18)
 
-* Added ADP decryption
+* Added ADP decryption with known key
 
 ## BCD436HP V1.99.18 (based on v1.99.17)
 
