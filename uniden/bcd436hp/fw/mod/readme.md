@@ -8,7 +8,7 @@ All firmware versions are now posted in [releases](https://github.com/x27/opensc
 
 ## BCD436HP V1.99.20 (V1.99.18)
 
-* Added ADP encryption
+* Added ADP decryption
 
 ## BCD436HP V1.99.18 (based on v1.99.17)
 
