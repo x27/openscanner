@@ -6,6 +6,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## BCD436HP V1.99.21 (based on V1.99.20)
+
+* Fixed P25 Phase1 ADP muting (ENC enabled on screen but it shouldn't)
+
 ## BCD436HP V1.99.20 (based on V1.99.18)
 
 * Added P25 Phase1 ADP decryption with known key
