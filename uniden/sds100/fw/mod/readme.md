@@ -4,6 +4,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## SDS-100 V1.99.20 (based on v1.99.18)
+
+* Added P25 Phase1 ADP decryption with known key
+
 ## SDS-100 V1.99.18 (based on v1.99.17)
 
 * Added support for Anytone Encryption (Test)
