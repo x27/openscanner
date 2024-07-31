@@ -4,6 +4,11 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## SDS-100 V1.99.22 (based on v1.99.20)
+
+* Fixed ADP decoding of the last voice frame in the P25 superframe
+* Fixed error in decrypting unencrypted voice traffic P25
+* 
 ## SDS-100 V1.99.20 (based on v1.99.18)
 
 * Added P25 Phase1 ADP decryption with known key
