@@ -8,7 +8,7 @@ All firmware versions are now posted in [releases](https://github.com/x27/opensc
 
 * Fixed ADP decoding of the last voice frame in the P25 superframe
 * Fixed error in decrypting unencrypted voice traffic P25
-* 
+  
 ## SDS-100 V1.99.20 (based on v1.99.18)
 
 * Added P25 Phase1 ADP decryption with known key
