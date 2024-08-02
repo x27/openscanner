@@ -6,6 +6,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## UBCD436PT V1.99.22 (based on v1.99.18)
+
+* Added P25 Phase1 ADP decryption with known key
+
 ## UBCD436PT V1.99.18 (based on v1.23.02)
 
 * Release first test firmware
