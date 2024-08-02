@@ -6,6 +6,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## UBCD3600XLT V1.99.22 (based on v1.99.19)
+
+* Added P25 Phase1 ADP decryption with known key
+
 ## UBCD3600XLT V1.99.19 (based on v1.28.15)
 
 * Fixed DMR processing bug
