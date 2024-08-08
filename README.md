@@ -15,6 +15,10 @@
 ### Custom firmware configuration software
 - [Custom Firmware Tuner CFT](https://github.com/x27/CFT)
 
+### Video tutorial
+
+Youtube: [How strart to using the OpenScanner Custom Firmware for Uniden Scanners](https://www.youtube.com/watch?v=alfvpBevngc)
+
 ### Links
 
 - email: n3617400@yahoo.com
