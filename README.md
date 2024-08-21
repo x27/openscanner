@@ -19,6 +19,12 @@
 
 Youtube: [How strart to using the OpenScanner Custom Firmware for Uniden Scanners](https://www.youtube.com/watch?v=alfvpBevngc)
 
+### FAQ
+
+* Q: How does custom firmware affect the official paid options (DMR, NXDN, Provoice, Waterfall)?
+* A: It doesn't have any effect.
+
+
 ### Links
 
 - email: n3617400@yahoo.com
