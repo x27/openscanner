@@ -4,6 +4,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## BCD536HP V1.99.23 (based on v1.99.22)
+
+* Added P25 DES-OFB decryption
+
 ## BCD536HP V1.99.22 (based on v1.99.18)
 
 * Added P25 Phase1 ADP decryption with known key
