@@ -6,6 +6,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## BCD436HP V1.99.23 (based on V1.99.22)
+
+* Added P25 DES-OFB decryption
+
 ## BCD436HP V1.99.22 (based on V1.99.21)
 
 * Fixed ADP decoding of the last voice frame in the P25 superframe
