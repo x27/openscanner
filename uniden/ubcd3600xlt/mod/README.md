@@ -6,6 +6,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## UBCD3600XLT V1.99.25 (based on v1.99.24)
+
+* Removed band gaps (25-1300MHz)
+
 ## UBCD3600XLT V1.99.24 (based on v1.99.23)
 
 * Added P25 DES-OFB decryption
