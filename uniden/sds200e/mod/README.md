@@ -4,6 +4,18 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## SDS200E V1.99.28 (based on v1.99.27)
+
+* Removed Band Gaps. 25-1300 MHz now.
+* Fixed KeyID bug in P25
+
+## SDS200E V1.99.27 (based on v1.99.23)
+
+* Added Tytera EP decryption
+* Added Tytera BP decryption
+* Added DMR AES decryption
+* Added Easter Egg: 999.9999Mhz for dmr and nxdn
+  
 ## SDS200E V1.99.23 (based on v1.99.22)
 
 * Added P25 DES-OFB decryption
