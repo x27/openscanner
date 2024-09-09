@@ -27,31 +27,31 @@ Youtube: [How start to using the OpenScanner Custom Firmware for Uniden Scanners
 
 ### FAQ
 
-- How does custom firmware affect the official paid options (DMR, NXDN, Provoice, Waterfall)?
+- **How does custom firmware affect the official paid options (DMR, NXDN, Provoice, Waterfall)?**
   - It doesn't have any effect.
 
-- Does the firmware search for encryption keys?
+- **Does the firmware search for encryption keys?**
   - No, it's not legal
 
-- Is it possible to go back to the official firmware?
-  - Yes. See the information in the modification description for each scanner, under **Revert to official firmware**
+- **Is it possible to go back to the official firmware?**
+  - Yes. See the information in the modification description for each scanner, under **Revert to Official Firmware**
 
-- How do I know the version of the custom firmware on the scanner?
+- **How do I know the version of the custom firmware on the scanner?**
   - This is indicated on the scanner's second boot screen.
 
-- Why is the version in the About menu not changing?
+- **Why is the version in the About menu not changing?**
   - The firmware is based on the official version, it does not change the official version number. In fact, it is a mod that has its own version.
 
-- How do I write to you in a private message on Telegram.
+- **How do I write to you in a private message on Telegram.**
   - If you can find my Telegram account, I'll be happy to answer your questions there. Otherwise, my e-mail address is at the bottom of the page.
 
-- How much free space in the firmware? And how much is total?
+- **How much free space in the firmware? And how much is total?**
   - There is about 300KB of free space in the BCD436HP scanner. At the moment the mod code takes up about 40KB. The total space is 2MB.
 
-- If I want a specific feature in the scanner, how do I tell you about it.
+- **If I want a specific feature in the scanner, how do I tell you about it.**
   - Add it [here](https://github.com/x27/CFT/issues), I will consider your request, if it is useful enough (from my point of view) then maybe I will add it someday.
 
-- Will there be a custom firmware release for the BCD996p2/BCD325P2? Whistler TRX? AOR DV?
+- **Will there be a custom firmware release for the BCD996p2/BCD325P2? Whistler TRX? AOR DV? Tetra? D-Star?**
   - After I win the lottery 1 million dollars (I don't play lotteries).
 
 ### Links
