@@ -7,8 +7,8 @@ The main purpose at the current stage is to support decryption of encrypted voic
 Additionally, the firmware has minor tweaks that make using the scanner more convenient.
 
 ### The latest versions of custom firmware
-- [BCD436HP CF 1.99.27](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/mod)
-- [BCD536HP CF 1.99.27](https://github.com/x27/openscanner/tree/main/uniden/bcd536hp/fw/mod)
+- [BCD436HP CF 1.99.28](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/mod)
+- [BCD536HP CF 1.99.28](https://github.com/x27/openscanner/tree/main/uniden/bcd536hp/fw/mod)
 - [SDS100 CF 1.99.28](https://github.com/x27/openscanner/tree/main/uniden/sds100/fw/mod)
 - [UBCD3600XLT CF 1.99.28](https://github.com/x27/openscanner/tree/main/uniden/ubcd3600xlt/mod)
 - [SDS100E CF 1.99.28](https://github.com/x27/openscanner/tree/main/uniden/sds100e/mod)
@@ -56,6 +56,15 @@ Youtube: [How start to using the OpenScanner Custom Firmware for Uniden Scanners
 
 ### Links
 
+**We've been mentioned here:**
+* [TetraHub](https://forum.tetrahub.net) (France)
+* [Radioreference](http://forums.radioreference.com) (US)
+* [Radioscanner](https://www.radioscanner.ru/) (Russia)
+* [ScannerForum](www.scannerforum.nl) (Scandinavia)
+* [All Scanners](https://t.me/allscanners) (Russia)
+* [Uniden UBCD3600 xlt/sds100/200](https://t.me/ScannerUNIDENUBCD3600xlt) (Spain)
+
+---
 - email: n3617400@yahoo.com
 - twitter:  https://twitter.com/openscanner
 - telegram: https://t.me/openscanner
