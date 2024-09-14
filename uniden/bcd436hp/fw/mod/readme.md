@@ -6,6 +6,17 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## BCD436HP V1.99.28 (based on V1.99.26)
+
+* Fixed KeyID bug in P25
+* Added Activate Option: Frequency (CFT v2.0.0.30 and higher)
+* Added Tytera BP decryption
+* Added "Easter Egg": 999.9999Mhz for dmr and nxdn
+
+## BCD436HP V1.99.26 (based on V1.99.25)
+
+* Added DMR AES decryption
+ 
 ## BCD436HP V1.99.25 (based on V1.99.24)
 
 * Added Tytera EP decryption
