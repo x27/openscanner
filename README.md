@@ -5,7 +5,7 @@
 The main purpose at the current stage is to support decryption of encrypted voice channels in the presence of an encryption key.
 
 Additionally, the firmware has minor tweaks that make using the scanner more convenient:
-- Zip and F-Zip key mapping
+- Zip, F-Zip, Range key mapping
 - No band gaps
 - Show extended Net/System/Site/TG info for any custom search name
 - Extended Debug Logs
@@ -24,7 +24,6 @@ The latest firmware versions can be downloaded in [Releases](https://github.com/
 - [SDS100E CF 1.99.35](https://github.com/x27/openscanner/tree/main/uniden/sds100e/mod)
 - [SDS200 CF 1.99.35](https://github.com/x27/openscanner/tree/main/uniden/sds200/mod)
 - [SDS200E CF 1.99.35](https://github.com/x27/openscanner/tree/main/uniden/sds200e/mod)
-  
 - [UBCD436PT CF 1.99.24](https://github.com/x27/openscanner/tree/main/uniden/ubcd436pt/mod)
 - [USDS100 CF 1.99.27](https://github.com/x27/openscanner/tree/main/uniden/usds100/mod)
 - [UBCD536PT CF 1.99.24](https://github.com/x27/openscanner/tree/main/uniden/ubcd536pt/mod)
