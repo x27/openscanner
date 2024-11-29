@@ -38,7 +38,7 @@ Youtube: [How start to using the OpenScanner Custom Firmware for Uniden Scanners
 ### FAQ
 
 - **Why is it taking so long for there to be no updates?**
-  - As a ordinary person, I'm not perfect, so you can put any of the suggested reasons: laziness, burnout, switching to other interesting projects, lack of free time, illness, and finally death.   
+  - This is my hobby project that I do in my free time. As a ordinary person, I'm not perfect, so you can put any of the suggested reasons: laziness, burnout, switching to other interesting projects, lack of free time, illness, and finally death.   
 
 - **How does custom firmware affect the official paid options (DMR, NXDN, Provoice, Waterfall)?**
   - It doesn't have any effect.
