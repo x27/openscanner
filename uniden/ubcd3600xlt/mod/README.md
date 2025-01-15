@@ -6,26 +6,68 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
-## UBCD3600XLT V1.99.27 (based on v1.99.25)
+## UBCD3600XLT V1.99.41
+
+* Added P25 Phase1 AES256
+* Added Scanner option: LED alert while the digital voice goes on (need any license)
+* Fixed debug string D1
+* Fixed MFID JVC->KEN
+
+## UBCD3600XLT V1.99.40
+
+* Added MFID showing
+
+## UBCD3600XLT V1.99.38
+
+* New RSSI calculation algo
+
+## UBCD3600XLT V1.99.36
+
+* Added Hytera EP encryption support (need CFT v2.0.0.36 and later)
+
+## UBCD3600XLT V1.99.35
+
+* !!! Fixed a serious bug, when in the presence of heterogeneous systems in the list (P25, NXDN, DMR) the required encryption row was not selected because it was discarded by the handler of another system.
+* Added new Display Additional Info Item: Algo + KeyID (DEC) for display the KeyID in DEC mode (need CFT v2.0.0.35 and later)
+
+## UBCD3600XLT V1.99.34
+
+* Added support Caltta/Kirisun BP encryption
+* Added show additional info (rssi, algo and keyid encryption). for setting need CFT 2.0.0.33 and higher
+* Added Debug Logs menu item for key mapping
+* Improved detection of encryption algorithms
+* Encryption information is shown for a limited time (less 10s).
+* DMR BP is defined by exclusion method, by residual principle.
+
+## UBCD3600XLT V1.99.30
+
+* Added Zip and F+Zip Key Mapping
+
+## UBCD3600XLT V1.99.29
+
+* Fixed floating bug KeyID in P25
+* Added Activate Option: Frequency (CFT v2.0.0.30 and higher)
+
+## UBCD3600XLT V1.99.27
 
 * Added Tytera EP decryption
 * Added Tytera BP decryption
 * Added DMR AES decryption
 * Added Easter Egg: 999.9999Mhz for dmr and nxdn
 
-## UBCD3600XLT V1.99.25 (based on v1.99.24)
+## UBCD3600XLT V1.99.25
 
 * Removed band gaps (25-1300MHz)
 
-## UBCD3600XLT V1.99.24 (based on v1.99.23)
+## UBCD3600XLT V1.99.24
 
 * Added P25 DES-OFB decryption
 
-## UBCD3600XLT V1.99.23 (based on v1.99.22)
+## UBCD3600XLT V1.99.23
 
 * Fixing DMR processing bug (again)
 
-## UBCD3600XLT V1.99.22 (based on v1.99.19)
+## UBCD3600XLT V1.99.22
 
 * Added P25 Phase1 ADP decryption with known key
 
