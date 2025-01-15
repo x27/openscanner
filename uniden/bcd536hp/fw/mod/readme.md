@@ -4,27 +4,66 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
-## BCD536HP V1.99.23 (based on v1.99.22)
+## BCD536HP V1.99.41
+
+* Added P25 Phase1 AES256
+* Added Scanner option: LED alert while the digital voice goes on (need any license)
+* Fixed debug string D1
+* Fixed MFID JVC->KEN
+
+## BCD536HP V1.99.40
+
+* Fixed MFID showing for P25 and NXDN
+
+## BCD536HP V1.99.38
+
+* New RSSI calculation algo
+* Changed Replay Duration from 240 to 600 sec
+
+## BCD536HP V1.99.35
+
+* !!! Fixed a serious bug, when in the presence of heterogeneous systems in the list (P25, NXDN, DMR) the required encryption row was not selected because it was discarded by the handler of another system.
+* Added new Display Additional Info Item: Algo + KeyID (DEC) for display the KeyID in DEC mode (need CFT v2.0.0.35 and later)
+
+## BCD536HP V1.99.34
+
+* Added support Caltta/Kirisun BP encryption
+* Added show additional info (rssi, algo and keyid encryption). for setting need CFT 2.0.0.33 and higher
+* Added Debug Logs menu item for key mapping
+* Improved detection of encryption algorithms
+* Encryption information is shown for a limited time (less 10s).
+* DMR BP is defined by exclusion method, by residual principle.
+
+## BCD536HP V1.99.32
+
+* Fixed RANGE key mapping
+
+## BCD536HP V1.99.29
+
+* Fixed floating bug KeyID in P25
+* Added Activate Option: Frequency (CFT v2.0.0.30 and higher)
+
+## BCD536HP V1.99.23
 
 * Added P25 DES-OFB decryption
 
-## BCD536HP V1.99.22 (based on v1.99.18)
+## BCD536HP V1.99.22
 
 * Added P25 Phase1 ADP decryption with known key
 
-## BCD536HP V1.99.18 (based on v1.99.17)
+## BCD536HP V1.99.18
 
 * Added support for Anytone Encryption (Test)
 
-## BCD536HP V1.99.17 (based on v1.99.16)
+## BCD536HP V1.99.17
 
 * Fixed problem in DMR/Simplex mode when KeyID is set because the scanner does not catch PI HEADER in this mode.
 
-## BCD536HP V1.99.16 (based on v1.99.14)
+## BCD536HP V1.99.16
 
 * Added Motorola EP (Enhanced Privacy) decryption
 
-## BCD536HP V1.99.14 (based on v1.99.11)
+## BCD536HP V1.99.14
 
 * Added NXDN Scrambler decryption
 
@@ -32,7 +71,7 @@ This can be configured in the CFT program
 
 https://github.com/x27/openscanner/releases/tag/BCD536HP_1.99.11
 
-## BCD536HP V1.99.11 (based on v1.99.10)
+## BCD536HP V1.99.11
 
 * Add Zip Key Assignment
 
@@ -40,7 +79,7 @@ This can be configured in the CFT program
 
 https://github.com/x27/openscanner/releases/tag/BCD536HP_1.99.11
 
-## BCD536HP V1.99.10 (based on v1.99.09)
+## BCD536HP V1.99.10
 
 * Add Hytera BP (Basic Privacy) and Motorola BP (Basic Privacy) decryption with known key
 * Now "Set Debug Log Mode" submenu always enabled in the "Settings" menu
@@ -49,7 +88,7 @@ https://github.com/x27/openscanner/releases/tag/BCD536HP_1.99.11
 
 https://github.com/x27/openscanner/releases/tag/BCD536HP_1.99.10
 
-## BCD536HP_V1_99_04.bin (based on v1.99.03)
+## BCD536HP_V1_99_04.bin
 
 Fix: Show extended Net/System/Site/TG info for any custom name
 
