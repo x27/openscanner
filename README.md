@@ -12,20 +12,21 @@ Additionally, the firmware has minor tweaks that make using the scanner more con
 - Unmute encripted voice traffic (optional)
 - Show Encryption Algo and Key ID
 - Show RSSI for BCD models
+- LED Alert during digital voice, not just at the beginning of the voice (optional)
 
 ### The latest versions of custom firmware
 
 The latest firmware versions can be downloaded in [Releases](https://github.com/x27/openscanner/releases)
 
-- [BCD436HP CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/mod)
-- [BCD536HP CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/bcd536hp/fw/mod)
-- [SDS100 CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/sds100/fw/mod)
-- [UBCD3600XLT CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/ubcd3600xlt/mod)
-- [SDS100E CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/sds100e/mod)
-- [SDS200 CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/sds200/mod)
-- [SDS200E CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/sds200e/mod)
-- [UBCD436PT CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/ubcd436pt/mod)
-- [USDS100 CF 1.99.40](https://github.com/x27/openscanner/tree/main/uniden/usds100/mod)
+- [BCD436HP CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/mod)
+- [BCD536HP CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/bcd536hp/fw/mod)
+- [SDS100 CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/sds100/fw/mod)
+- [UBCD3600XLT CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/ubcd3600xlt/mod)
+- [SDS100E CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/sds100e/mod)
+- [SDS200 CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/sds200/mod)
+- [SDS200E CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/sds200e/mod)
+- [UBCD436PT CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/ubcd436pt/mod)
+- [USDS100 CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/usds100/mod)
 - [UBCD536PT CF 1.99.24](https://github.com/x27/openscanner/tree/main/uniden/ubcd536pt/mod)
 
 ### Custom firmware configuration software
