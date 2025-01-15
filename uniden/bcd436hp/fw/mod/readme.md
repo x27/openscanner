@@ -6,6 +6,13 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## BCD436HP V1.99.41
+
+* Added P25 Phase1 AES256
+* Added Scanner option: LED alert while the digital voice goes on (need any license)
+* Fixed debug string D1
+* Fixed MFID JVC->KEN
+
 ## BCD436HP V1.99.40
 
 * Fixed MFID showing for P25 and NXDN
