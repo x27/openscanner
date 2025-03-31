@@ -78,6 +78,7 @@ Youtube: [How start to using the OpenScanner Custom Firmware for Uniden Scanners
 * [ScannerForum](https://www.scannerforum.nl) (Scandinavia)
 * [All Scanners](https://t.me/allscanners) (Russia)
 * [Uniden UBCD3600 xlt/sds100/200](https://t.me/ScannerUNIDENUBCD3600xlt) (Spain)
+* [VicScan](https://www.vicscan.com) (Australia)
 * [RDForum](https://www.rdforum.org/) (US)
 
 ---
