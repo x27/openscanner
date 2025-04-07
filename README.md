@@ -68,6 +68,8 @@ Youtube: [How start to using the OpenScanner Custom Firmware for Uniden Scanners
 - **Will there be a custom firmware release for the BCD996p2/BCD325P2? Whistler TRX? AOR DV? Tetra? D-Star?**
   - After I win the lottery 1 million dollars (I don't play lotteries).
 
+- **What kind of licenses are you selling?**
+  - I'm selling licenses to disable the demo limitations of custom firmware. **IT'S NOT A RADIO NETWORK KEYS**.
 
 ### Links
 
