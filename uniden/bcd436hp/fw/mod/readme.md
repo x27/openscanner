@@ -6,6 +6,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## BCD436HP V1.99.42
+
+* The mod base has been moved from official firmware 1.28.14 to 1.28.24
+
 ## BCD436HP V1.99.41
 
 * Added P25 Phase1 AES256
