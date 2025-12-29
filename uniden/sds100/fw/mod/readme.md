@@ -4,6 +4,16 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## SDS-100 V1.99.45
+
+* Added 5% Dimmer Level instead of 60%
+
+## SDS-100 V1.99.44
+
+* The USB1 Voltage field is now used to display Algo and KeyID
+* Based on official FW 1.24.00
+* Fixed a bug when the "Replay Duration" value = 600 seconds was not restored when the scanner was turned on.
+
 ## SDS-100 V1.99.41
 
 * Added P25 Phase1 AES256

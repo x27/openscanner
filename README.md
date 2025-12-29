@@ -13,6 +13,8 @@ Additionally, the firmware has minor tweaks that make using the scanner more con
 - Show Encryption Algo and Key ID
 - Show RSSI for BCD models
 - LED Alert during digital voice, not just at the beginning of the voice (optional)
+- 5% Dimmer level (SDS100)
+- 600 sec Replay Duration
 
 ### The latest versions of custom firmware
 
@@ -23,7 +25,7 @@ The latest firmware versions can be downloaded in [Releases](https://github.com/
 
 - [BCD436HP CF 1.99.42](https://github.com/x27/openscanner/tree/main/uniden/bcd436hp/fw/mod)
 - [BCD536HP CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/bcd536hp/fw/mod)
-- [SDS100 CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/sds100/fw/mod)
+- [SDS100 CF 1.99.45](https://github.com/x27/openscanner/tree/main/uniden/sds100/fw/mod)
 - [UBCD3600XLT CF 1.99.42](https://github.com/x27/openscanner/tree/main/uniden/ubcd3600xlt/mod)
 - [SDS100E CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/sds100e/mod)
 - [SDS200 CF 1.99.41](https://github.com/x27/openscanner/tree/main/uniden/sds200/mod)
