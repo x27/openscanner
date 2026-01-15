@@ -6,6 +6,10 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## UBCD3600XLT V1.99.44
+
+* Fixed a bug when the "Replay Duration" value = 600 seconds was not restored when the scanner was turned on
+
 ## UBCD3600XLT V1.99.42
 
 * The mod base has been moved from official firmware 1.28.15 to 1.28.24

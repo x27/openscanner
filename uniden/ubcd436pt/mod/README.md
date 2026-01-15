@@ -6,6 +6,37 @@ To get the most from the latest custom firmware you must use the [CFT program](h
 
 All firmware versions are now posted in [releases](https://github.com/x27/openscanner/releases)
 
+## UBCD436PT V1.99.41
+
+* Added P25 DES-OFB decryption
+* Added P25 Phase1 AES256
+* Added Scanner option: LED alert while the digital voice goes on (need any license)
+* Fixed debug string D1
+* Fixed MFID JVC->KEN
+
+## UBCD436PT V1.99.40
+
+* Fixed MFID showing for P25 and NXDN
+
+## UBCD436PT V1.99.37
+
+* No Band Gaps
+
+## UBCD436PT V1.99.36
+
+* Added Hytera EP encryption support (need CFT v2.0.0.36 and later)
+* !!! Fixed a serious bug, when in the presence of heterogeneous systems in the list (P25, NXDN, DMR) the required encryption row was not selected because it was discarded by the handler of another system.
+* Added show additional info (rssi, algo and keyid encryption). for setting need CFT 2.0.0.33 and higher
+* Added support Caltta/Kirisun BP encryption
+* Added Debug Logs menu item for key mapping
+* Added Activate Option: Frequency (CFT v2.0.0.30 and higher)
+* Fixed floating bug KeyID in P25
+* Added Tytera EP decryption
+* Added Tytera BP decryption
+* Added DMR AES decryption
+* Added easter egg: 999.9999Mhz for dmr and nxdn
+* Added new Display Additional Info Item: Algo + KeyID (DEC) for display the KeyID in DEC mode (need CFT v2.0.0.35 and later)
+
 ## UBCD436PT V1.99.23 (based on v1.99.22)
 
 * Added P25 DES-OFB decryption
