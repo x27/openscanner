@@ -19,7 +19,7 @@ Additionally, the firmware has minor tweaks that make using the scanner more con
 ### The latest versions of custom firmware
 
 > [!IMPORTANT]
-> **Custom firmware 1.99.41 does not support SDS100/SDS200 subprocessor firmware 1.03.15 and above.**
+> **Custom firmware 1.99.41 does not support SDS200 subprocessor firmware 1.03.15 and above.**
 
 The latest firmware versions can be downloaded in [Releases](https://github.com/x27/openscanner/releases)
 
